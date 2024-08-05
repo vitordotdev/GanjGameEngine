@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GanjGameEngine\GGE-EDITOR\obj\Debug\
+D:\Programing\GanjGameEngine\GGE-EDITOR\obj\Debug\
 GGE_EDITOR
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GanjGameEngine\GGE-EDITOR\App.xaml
+D:\Programing\GanjGameEngine\GGE-EDITOR\App.xaml
 15-367947631
 
 36715099222

@@ -40,9 +40,10 @@ namespace GGE_EDITOR.GameProject
         };
 
         private int _buildConfig;
+        [DataMember]
         public int BuildConfig { get => _buildConfig; set { if (_buildConfig != value) { _buildConfig = value; OnPropertyChanged(nameof(BuildConfig)); } } }
 
-        // YT VID 19:17 - 0019
+        // YT VID 19:17 - 0019   ----- 23:48
 
         public BuildConfiguration StandAloneBuildConfig => BuildConfig == 0 ? BuildConfiguration.Debug : BuildConfiguration.Release;
         public BuildConfiguration DllBuildConfig => BuildConfig == 0 ? BuildConfiguration.DebugEditor : BuildConfiguration.ReleaseEditor;

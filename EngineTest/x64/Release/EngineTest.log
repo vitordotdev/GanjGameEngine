@@ -1,5 +1,6 @@
-﻿  Gerando código
+﻿  Main.cpp
+  Gerando código
   Previous IPDB not found, fall back to full compilation.
   All 636 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finalizada a geração de código
-  EngineTest.vcxproj -> F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GGE\x64\Release\EngineTest.exe
+  EngineTest.vcxproj -> D:\Programing\GanjGameEngine\x64\Release\EngineTest.exe

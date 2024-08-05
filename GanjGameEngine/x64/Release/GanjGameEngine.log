@@ -2,5 +2,5 @@
   Script.cpp
   Transform.cpp
   Main.cpp
-F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GGE\GanjGameEngine\Components\Transform.cpp(39,25): warning C4100: 'c': parâmetro formal não referenciado
-  GanjGameEngine.vcxproj -> F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GGE\x64\Release\GanjGameEngine.lib
+D:\Programing\GanjGameEngine\GanjGameEngine\Components\Transform.cpp(39,25): warning C4100: 'c': parâmetro formal não referenciado
+  GanjGameEngine.vcxproj -> D:\Programing\GanjGameEngine\x64\Release\GanjGameEngine.lib

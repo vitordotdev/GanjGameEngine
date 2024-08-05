@@ -1,1 +1,5 @@
-﻿  GanjGameEngine.vcxproj -> F:\_GanjGameStudios\GanjGameEngine\0-GanjGameEngine_Oficial_Project\GanjGameEngine\x64\Debug\GanjGameEngine.lib
+﻿  Entity.cpp
+  Script.cpp
+  Transform.cpp
+  Main.cpp
+  GanjGameEngine.vcxproj -> D:\Programing\GanjGameEngine\x64\Debug\GanjGameEngine.lib
